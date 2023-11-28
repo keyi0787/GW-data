@@ -1,4 +1,4 @@
-GSS Borough code,Year,Domestic (CO2e),Industrial and Commercial (CO2e),Transport (CO2e or CO2),NRMM (CO2e),IPPU (CO2e),AFOLU (CO2e),Waste (CO2e),Fugitive emissions (CO2e)
+GSS Borough code,Borough,Domestic (CO2e),Industrial and Commercial (CO2e),Transport (CO2e or CO2),NRMM (CO2e),IPPU (CO2e),AFOLU (CO2e),Waste (CO2e),Fugitive emissions (CO2e)
 E09000002,Barking and Dagenham,204 ,125 ,130 ,3 ,,,,
 E09000003,Barnet,552 ,203 ,346 ,16 ,,,,
 E09000004,Bexley,316 ,215 ,192 ,7 ,,,,
